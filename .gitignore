@@ -1,0 +1,8 @@
+01-kubernetes-install/ca.crt
+01-kubernetes-install/ca.key
+01-kubernetes-install/ca.srl
+01-kubernetes-install/server.conf
+01-kubernetes-install/server.crt
+01-kubernetes-install/server.csr
+01-kubernetes-install/server.key
+01-kubernetes-install/webhook-configuration.yaml
